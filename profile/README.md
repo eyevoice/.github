@@ -1,7 +1,4 @@
-
-<h3 align='center'>[2024 스마일게이트 AI 서비스 위클리톤] 참가 팀</h3>
-
-<h3 align='center'> ✨ 기여자 (Contributors) ✨ </h3>
+<h3 align='center'> 기여자 (Contributors) </h3>
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
